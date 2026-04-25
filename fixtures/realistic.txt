@@ -1,0 +1,3 @@
+Tools: read_file read-only, shell requires approval, network only docs, secrets/tokens/cookies are blocked.
+
+Operational note: run this in CI with --markdown and --sarif.
